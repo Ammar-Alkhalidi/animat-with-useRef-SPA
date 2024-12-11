@@ -1,0 +1,14 @@
+.buttons {
+  text-align: center;
+}
+
+.target {
+  background: url("https://placehold.co/300x300/navy/blue");
+  background-size: cover;
+  width: 300px;
+  height: 300px;
+}
+
+h1 {
+  text-align: center;
+}
